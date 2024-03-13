@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb4cdf56-a396-453a-a3c9-ac000baf3fa6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ada-aulas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ada-aulas/src/CalculadoraMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/main/java/TestaArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/TestaArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/target/classes/TestaArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/target/classes/TestaArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ada-aulas/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ada-aulas/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ada-aulas/ada-aulas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ada-aulas/ada-aulas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ada-aulas/out/production/ada-aulas/Calculadora$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ada-aulas/out/production/ada-aulas/Calculadora$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ada-aulas/out/production/ada-aulas/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ada-aulas/out/production/ada-aulas/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ada-aulas/out/production/ada-aulas/Operadores.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ada-aulas/out/production/ada-aulas/Operadores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ada-aulas/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ada-aulas/src/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atividades/src/main/java/Exercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../atividades/src/main/java/Exercicios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loja" beforeDir="false" afterPath="$PROJECT_DIR$/../loja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaCaracteres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaCondicional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaCondicional2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaConversao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaEscopo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaFatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaIR2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaLacos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaLacos2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaMes2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaMultiplos3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaPontoFlutuante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaProgramaComBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaSomatoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaValores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaVariaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TestaWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxeVariaveisEfluxo/out/production/sintaxeVariaveisEfluxo/teste/TesteIR.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2aikqR47KfT7EqbdYrC8j0q1rrp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\t798830\IdeaProjects\projeto-abrigo" />
+      <recent name="C:\Users\t798830\IdeaProjects\projeto-abrigo\.idea" />
+      <recent name="C:\Users\t798830\IdeaProjects\projeto-abrigo\target" />
+      <recent name="C:\Users\t798830\IdeaProjects\projeto-abrigo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AbrigoServiceTest.deveVerificarSeNaoTemAbrigo">
+    <configuration name="AdopetConsoleApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.AdopetConsoleApplication" />
+      <module name="projeto-abrigo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbrigoServiceTest.deveVerificarSeDTemAbrigo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto-abrigo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.alura.service" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.service.AbrigoServiceTest" />
+      <option name="METHOD_NAME" value="deveVerificarSeDTemAbrigo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbrigoServiceTest.deveVerificarSeDispararRequisicaoGetSeraChamado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto-abrigo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.alura.service" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.service.AbrigoServiceTest" />
+      <option name="METHOD_NAME" value="deveVerificarSeDispararRequisicaoGetSeraChamado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbrigoServiceTest.deveVerificarSeNaoTemAbrigo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto-abrigo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.alura.service" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.service.AbrigoServiceTest" />
+      <option name="METHOD_NAME" value="deveVerificarSeNaoTemAbrigo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/api.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AbrigoServiceTest.deveVerificarSeNaoTemAbrigo" />
+        <item itemvalue="JUnit.AbrigoServiceTest.deveVerificarSeDTemAbrigo" />
+        <item itemvalue="JUnit.AbrigoServiceTest.deveVerificarSeDispararRequisicaoGetSeraChamado" />
+        <item itemvalue="Application.AdopetConsoleApplication" />
+        <item itemvalue="JAR Application.api.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb4cdf56-a396-453a-a3c9-ac000baf3fa6" name="Default Changelist" comment="" />
+      <created>1704808981182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704808981182</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
